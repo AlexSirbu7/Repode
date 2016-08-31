@@ -6,7 +6,7 @@ body {
 	width: 100%;
 }
 .hero {
-	background-color:af5761;
+	background-color:red;
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
@@ -37,7 +37,7 @@ p {
 	font-size: 2em;
 }
 .hero a {
-	color: af5761;
+	color: red;
 	font-size: 24px;
 	text-decoration: none;
 }
